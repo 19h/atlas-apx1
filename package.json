@@ -1,0 +1,17 @@
+{
+    "name": "atlas-apx1",
+    "version": "1.0.0",
+    "description": "apx1 (r1.geoca.st) TOR-front",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KenanSulayman/atlas-apx1.git"
+    },
+    "bugs": {
+        "url": "https://github.com/KenanSulayman/atlas-apx1/issues"
+    },
+    "homepage": "https://github.com/KenanSulayman/atlas-apx1"
+}
