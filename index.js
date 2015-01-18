@@ -18,7 +18,7 @@ var _bail = function (res) {
 }
 
 http.createServer(function (req, res) {
-	if (req.host === "r1.geoca.st")
+	if (req.headers.host === "r1.geoca.st")
 		return res.writeHead(200, {
 			"Content-type": "text/html"
 		}), res.end(hero);
